@@ -1,6 +1,6 @@
 ===UpdateNote===
 
-ㅇ 01-02-2019
+● 01-02-2019
 
 1. sum_of_Natural_Numbers.py
 
@@ -10,7 +10,7 @@
 
     : you'll learn to display powers of the integer 2 using Python anonymous function.
 
-ㅇ 06-02-2019
+● 06-02-2019
 
 1. xml_process_ex.py
 
