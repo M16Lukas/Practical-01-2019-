@@ -19,3 +19,7 @@
 2. Numbers_Divisible.py
 
     : you'll learn to find the numbers divisible by another number and display it.
+    
+3. Convert_Decimal.py
+
+    : you'll learn to convert decimal to binary, octal and hexadecimal, and display it.
